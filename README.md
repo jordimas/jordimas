@@ -6,10 +6,12 @@
 
 # Projects at Softcatalà
 
+Projects for which I'm a core contributor:
+
 * Neural translation at https://www.softcatala.org/traductor/
-  * [nmt-softcatala](https://github.com/Softcatala/nmt-softcatala)
-  * [nmt-models](https://github.com/Softcatala/nmt-models)
-* translation-memory-tools 
+  * [nmt-softcatala](https://github.com/Softcatala/nmt-softcatala), [nmt-models](https://github.com/Softcatala/nmt-models) and [parallel-catalan-corpus](https://github.com/Softcatala/parallel-catalan-corpus) 
+* Translation memories at https://www.softcatala.org/recursos/memories/ 
+  * [translation-memory-tools](https://github.com/Softcatala/translation-memory-tools) 
 * conjugador 
 * text-metrics-service 
 * transcribe-service 
