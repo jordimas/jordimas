@@ -4,6 +4,8 @@
   - 📫 [![Twitter: jordimash](https://img.shields.io/twitter/follow/jordimash?style=social)](https://twitter.com/jordimash) - email: jmas@softcatala.org
   - 😄 Pronouns: He / Him
 
+I do contribute to many projects, some of them sporadically. This is a highlight of some of my key contributions.
+
 # Projects at Softcatalà
 
 Some projects for which I'm a core contributor:
@@ -20,11 +22,15 @@ Some projects for which I'm a core contributor:
   * [Catalanitzador](https://github.com/Softcatala/Catalanitzador) 
 * Time in Catalan - https://www.softcatala.org/hora-en-catala/
   * [hora-catalana](https://github.com/Softcatala/hora-catalana)
+* Text metrics service used at https://www.softcatala.org/corrector/
+  * [text-metrics-service](https://github.com/Softcatala/text-metrics-service)
+  
+Additionally I do contribute to machine learning models and datasets. See: https://huggingface.co/softcatala 
   
 # Translations
 
-* Translations coordinator and translator for [GNOME project](https://www.gnome.org/)
-* Translations coordinator and translator for [GIMP project](https://www.gimp.org/)
+* Translators coordinator and translator for [GNOME project](https://www.gnome.org/)
+* Translators coordinator and translator for [GIMP project](https://www.gimp.org/)
 * Catalan translator for [Git](https://github.com/git/git)
 
 # Books
