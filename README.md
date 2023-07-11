@@ -1,6 +1,6 @@
 # Introduction
   
-  - 🔭 Open source at heart
+  - 🔭 Open source contributor and translator
   - 📫 [![Twitter: jordimash](https://img.shields.io/twitter/follow/jordimash?style=social)](https://twitter.com/jordimash) - email: jmas@softcatala.org
   - 😄 Pronouns: He / Him
 
@@ -16,7 +16,9 @@ Some projects for which I'm a core contributor:
   * [conjugador](https://github.com/Softcatala/conjugador) 
 * Text and audio transcribe service at https://www.softcatala.org/transcripcio/
   * [transcribe-service](https://github.com/Softcatala/transcribe-service) 
-  
+* Configure your OS in Catalan automatically at https://www.softcatala.org/catalanitzador/
+  * [Catalanitzador](https://github.com/Softcatala/Catalanitzador) 
+
 # Translations
 
 * Translations coordinator and translator for [GNOME project](https://www.gnome.org/)
