@@ -1,7 +1,7 @@
 # Introduction
   
   - 🔭 Open source at heart
-  - 📫 [![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/jordimash?style=social)](https://twitter.com/jordimash)
+  - 📫 [![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/jordimash?style=social)](https://twitter.com/jordimash) - email: jmas@softcatala.org
   - 😄 Pronouns: He / Him
 
 ##
