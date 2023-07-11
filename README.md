@@ -1,4 +1,10 @@
-### Hi there 👋
+# Introduction
+  
+  - 🔭 Open source at heart
+  - 📫 [![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/jordimash?style=social)](https://twitter.com/jordimash)
+  - 😄 Pronouns: He / Him
+
+##
 
 <!--
 **jordimas/jordimas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +20,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
