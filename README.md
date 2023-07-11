@@ -6,42 +6,24 @@
 
 # Projects at Softcatalà
 
-Projects for which I'm a core contributor:
+Some projects for which I'm a core contributor:
 
 * Neural translation at https://www.softcatala.org/traductor/
   * [nmt-softcatala](https://github.com/Softcatala/nmt-softcatala), [nmt-models](https://github.com/Softcatala/nmt-models) and [parallel-catalan-corpus](https://github.com/Softcatala/parallel-catalan-corpus) 
 * Translation memories at https://www.softcatala.org/recursos/memories/ 
   * [translation-memory-tools](https://github.com/Softcatala/translation-memory-tools) 
-* conjugador 
-* text-metrics-service 
-* transcribe-service 
-* whisper-ctranslate2 
+* Verb conjugator at https://www.softcatala.org/conjugador-de-verbs/
+  * [conjugador](https://github.com/Softcatala/conjugador) 
+* Text and audio transcribe service at https://www.softcatala.org/transcripcio/
+  * [/transcribe-service](https://github.com/Softcatala/transcribe-service) 
+  
+# Translations
 
+* Translations coordinator and translator for [GNOME project](https://www.gnome.org/)
+* Translations coordinator and translator for [GIMP project](https://www.gimp.org/)
+* Catalan translator for [Git](https://github.com/git/git)
 
-parallel-corpus-search
-hora-catalana
-tts-service
-summarization-service 
+# Other open source projects
 
-
-
-# Other open source projectes
-
-
-<!--
-**jordimas/jordimas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-
+* [gbrainy](https://wiki.gnome.org/Apps/gbrainy)
+* [whisper-ctranslate2](https://github.com/Softcatala/whisper-ctranslate2)
