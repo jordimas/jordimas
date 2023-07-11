@@ -15,13 +15,17 @@ Some projects for which I'm a core contributor:
 * Verb conjugator at https://www.softcatala.org/conjugador-de-verbs/
   * [conjugador](https://github.com/Softcatala/conjugador) 
 * Text and audio transcribe service at https://www.softcatala.org/transcripcio/
-  * [/transcribe-service](https://github.com/Softcatala/transcribe-service) 
+  * [transcribe-service](https://github.com/Softcatala/transcribe-service) 
   
 # Translations
 
 * Translations coordinator and translator for [GNOME project](https://www.gnome.org/)
 * Translations coordinator and translator for [GIMP project](https://www.gimp.org/)
 * Catalan translator for [Git](https://github.com/git/git)
+
+# Books
+* [Programari lliure: tècnicament viable, econòmicament sostenible i socialment just](https://github.com/jordimas/llibre-programari-lliure)
+  * Available in Catalan, Spanish and Galician
 
 # Other open source projects
 
