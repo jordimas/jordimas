@@ -18,7 +18,9 @@ Some projects for which I'm a core contributor:
   * [transcribe-service](https://github.com/Softcatala/transcribe-service) 
 * Configure your OS in Catalan automatically at https://www.softcatala.org/catalanitzador/
   * [Catalanitzador](https://github.com/Softcatala/Catalanitzador) 
-
+* Time in Catalan - https://www.softcatala.org/hora-en-catala/
+  * [hora-catalana](https://github.com/Softcatala/hora-catalana)
+  
 # Translations
 
 * Translations coordinator and translator for [GNOME project](https://www.gnome.org/)
