@@ -20,18 +20,20 @@ Some projects for which I'm a core contributor:
   * [transcribe-service](https://github.com/Softcatala/transcribe-service) 
 * Configure your OS in Catalan automatically at https://www.softcatala.org/catalanitzador/
   * [Catalanitzador](https://github.com/Softcatala/Catalanitzador) 
-* Time in Catalan - https://www.softcatala.org/hora-en-catala/
+* Time in Catalan at https://www.softcatala.org/hora-en-catala/
   * [hora-catalana](https://github.com/Softcatala/hora-catalana)
 * Text metrics service used at https://www.softcatala.org/corrector/
   * [text-metrics-service](https://github.com/Softcatala/text-metrics-service)
   
 Additionally I do contribute to machine learning models and datasets. See: https://huggingface.co/softcatala 
   
-# Translations
+# Translations for Catalan language
 
 * Translators coordinator and translator for [GNOME project](https://www.gnome.org/)
 * Translators coordinator and translator for [GIMP project](https://www.gimp.org/)
-* Catalan translator for [Git](https://github.com/git/git)
+* Translators coordinator and translator for [Inkscape project](https://inkscape.org/)
+* Main translator for [Git](https://github.com/git/git)
+* Contributor to core Linux tools - [translationproject](https://translationproject.org/team/ca.html)
 
 # Books
 * [Programari lliure: tècnicament viable, econòmicament sostenible i socialment just](https://github.com/jordimas/llibre-programari-lliure)
